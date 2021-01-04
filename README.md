@@ -2,6 +2,8 @@
 ## Web automation:
 1) https://webdriver.io
 
+## Mobile automation (Ruby&Appium):
+1) https://www.guru99.com/mobile-testing.html
 
 ## Python challenges:
 1) https://pythonprinciples.com/challenges/
