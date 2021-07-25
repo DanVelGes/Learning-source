@@ -33,7 +33,36 @@
 1) https://www.softwaretestinghelp.com
 2) https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 3) https://www.guru99.com
-4) https://owasp.org
+
+
+# Test Automation sand-box
+
+Places, where I can practice various automation processess and create a sample automation script and save it in the GitHub.
+
+## MOB automation
+
+- https://play.google.com/store/apps/details?id=com.poqstudio.app.platform.missguided
+- https://play.google.com/store/apps/details?id=com.strawberrynetNew.android
+- https://play.google.com/store/apps/details?id=com.beautybay
+- https://play.google.com/store/apps/details?id=com.view9.foreveryng
+- https://play.google.com/store/apps/details?id=com.geeko.bellewholesale
+- https://play.google.com/store/apps/details?id=com.geeko.boutiquefeel
+
+## WEB automation
+
+- https://demoqa.com
+- http://automationpractice.com/index.php
+- https://www.phptravels.net/home
+
+
+## REST API automation
+
+- https://github.com/public-apis/public-apis/blob/master/README.md#anime
+- https://restful-booker.herokuapp.com/apidoc/index.html
+- https://github.com/bkimminich/juice-shop
+- https://clickup.com/api
+- https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/
+5) https://owasp.org
 
 
 ## Ethical Hacking and security:
