@@ -73,6 +73,22 @@ Places, where I can practice various automation processess and create a sample a
 5) https://www.hackthissite.org/register
 6) https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html
 
+## Proposed for Ethical hacking and Pentesting
+1) https://www.youtube.com/c/ippsec
+2) https://www.youtube.com/c/TheCyberMentor
+3) https://www.youtube.com/c/HackerSploit
+4) https://tryhackme.com/
+5) https://www.cyberseclabs.co.uk/
+6) https://www.hackthebox.com/
+7) https://c4pr1c3.github.io/awesome-ctf/#delibrated-vulnerable-app
+8) https://ctfsites.github.io/
+9) https://picoctf.org/
+10) https://pentesterlab.com/
+11) https://overthewire.org/wargames/
+12) https://www.youtube.com/watch?v=WnN6dbos5u8&t=35836s
+13) https://book.hacktricks.xyz/
+14) https://ippsec.rocks/?#
+
 
 ## PHP & Laravel framework:
 1) https://www.youtube.com/watch?v=ImtZ5yENzgE
