@@ -89,6 +89,11 @@ Places, where I can practice various automation processess and create a sample a
 13) https://book.hacktricks.xyz/
 14) https://ippsec.rocks/?#
 
+## KPI and project planning:
+1) https://maddevs.io/blog/main-software-development-metrics-and-kpis/
+2) https://yojji.io/blog/kpi-software-development
+3) https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator
+4) https://agilemanifesto.org/iso/en/manifesto.html
 
 ## PHP & Laravel framework:
 1) https://www.youtube.com/watch?v=ImtZ5yENzgE
